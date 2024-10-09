@@ -1,0 +1,2 @@
+# ZeeSite
+static site
